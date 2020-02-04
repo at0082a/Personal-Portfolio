@@ -1,5 +1,5 @@
-import styled from 'styled-components'
-import { white } from '@carbon/colors'
+import styled from 'styled-components';
+import { white } from '@carbon/colors';
 
 export const WorkItem = styled.li`
   margin-top: 1rem;
@@ -8,9 +8,9 @@ export const WorkItem = styled.li`
 `
 
 export const WorkTitle = styled.h4`
-  font-weight: bold;
+  font-weight: bold
 `
 
 export const JobTitle = styled.p`
   font-weight: bold;
-  display: inline-block;
+  display: inline-block`
