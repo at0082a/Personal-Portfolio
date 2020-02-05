@@ -9,6 +9,8 @@ export const EducationItem = styled.li`
 
 export const Institution = styled.h4`
   font-weight: bold;
+  margin-bottom: 0.5em;
+  font-size: 1.5rem;
 `;
 
 export const Degree = styled.p`
